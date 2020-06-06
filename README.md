@@ -20,12 +20,19 @@ Sola dönmek için : L
 Sağa dönmek için : R
 
 Test girdileri;
+
 5 5
+
 1 2 N
+
 LMLMLMLMM
+
 3 3 E
+
 MMRMMRMRRM
 
 Çıktıları ;
+
 1 3 N
+
 5 1 E
